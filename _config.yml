@@ -1,4 +1,5 @@
 title: Rajesh Mondal
-logo: docs/assets/sun.png
+#logo: docs/assets/sun.png
+logo: docs/assets/rotating_Ylm_l12_m6.gif
 description: Research Scholar
 theme: jekyll-theme-minimal
