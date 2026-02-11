@@ -17,7 +17,7 @@ Research Scholar
 
 ---
 
-I work on helioseismology and nonlinear magnetohydrodynamic simulations, focusing on how dynamo-generated magnetic fields modify surface gravity waves in the Sun. My research combines theory, high-resolution simulations, and helioseismic diagnostics.
+I work on helioseismology and nonlinear magnetohydrodynamic simulations, focusing on how magnetic fields modify surface gravity waves in the Sun. My research combines theory, high-resolution simulations, and helioseismic diagnostics.
 
 ## Publications
 
