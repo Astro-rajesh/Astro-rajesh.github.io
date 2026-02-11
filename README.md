@@ -29,7 +29,7 @@ We perform 3D numerical simulations of an α²-dynamo in a two-layer solar setup
 - Astrophysical fluid dynamics
 
 ## Contact
-Email: rajesh.mondal@iucaa.in 
+Email: rajesh.mondal@iucaa.in  
 Google Scholar: [Profile](https://scholar.google.com/citations?user=yQCyUuwAAAAJ)
 
 
