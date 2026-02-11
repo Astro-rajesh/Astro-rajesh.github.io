@@ -24,8 +24,7 @@ arXiv:2602.05529
 
 - Helioseismology  
 - Dynamo theory  
-- Astrophysical fluid dynamics  
-- Stratified MHD  
+- Astrophysical fluid dynamics   
 
 ## Contact
 
