@@ -5,7 +5,7 @@ Inter-University Centre for Astronomy and Astrophysics (IUCAA)
 
 ---
 
-I work on helioseismology and magnetohydrodynamic simulations, focusing on the interaction between magnetic fields and surface gravity waves in the Sun. 
+I work on helioseismology and magnetohydrodynamic simulations, focusing on the interaction between magnetic fields and surface gravity waves in the Sun. My research combines theory, high-resolution simulations, and helioseismic diagnostics.
 
 ---
 
@@ -30,3 +30,5 @@ We perform 3D numerical simulations of an α²-dynamo in a two-layer solar setup
 
 ## Contact
 Email: rajesh.mondal@iucaa.in
+Google Scholar: https://scholar.google.com/citations?user=yQCyUuwAAAAJ
+
