@@ -3,4 +3,8 @@ title: Rajesh Mondal
 logo: docs/assets/rotating_Ylm_l12_m6.gif
 description: Research Scholar, IUCAA
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
