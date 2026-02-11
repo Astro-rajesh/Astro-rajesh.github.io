@@ -8,6 +8,11 @@ author_profile: false
 Research Scholar  
 [Inter-University Centre for Astronomy and Astrophysics (IUCAA)](https://www.iucaa.in)
 
+<img src="/assets/images/rotating_Ylm_l12_m6.gif" 
+     alt="Spherical harmonic visualization"
+     width="220"
+     style="float: left; margin-right: 20px; margin-bottom: 10px;">
+
 ---
 
 I work on helioseismology and nonlinear magnetohydrodynamic simulations, focusing on how dynamo-generated magnetic fields modify surface gravity waves in the Sun. My research combines theory, high-resolution simulations, and helioseismic diagnostics.
