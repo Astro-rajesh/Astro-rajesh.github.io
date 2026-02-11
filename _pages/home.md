@@ -8,10 +8,12 @@ author_profile: false
 Research Scholar  
 [Inter-University Centre for Astronomy and Astrophysics (IUCAA)](https://www.iucaa.in)
 
-<img src="docs/assets/rotating_Ylm_l12_m6.gif" 
-     alt="Spherical harmonic visualization"
-     width="220"
-     style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<p style="text-align: center;">
+  <img src="{{ 'docs/assets/rotating_Ylm_l12_m6.gif' | relative_url }}"
+       alt="Rotating spherical harmonic visualization"
+       width="180">
+</p>
+
 
 ---
 
