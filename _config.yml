@@ -32,7 +32,8 @@ author:
       url: "mailto:rajesh.mondal@iucaa.in"
   
     - label: "ORCID"
-      icon: "fas fa-id-badge"
+      #icon: "fas fa-id-badge"
+      icon: "ai ai-orcid"
       url: "https://orcid.org/0009-0005-7378-8614"
   
     - label: "Google Scholar"
