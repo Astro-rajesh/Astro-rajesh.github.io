@@ -11,15 +11,16 @@
     display: none;
 }
 
+.author__urls a[href*="scholar.google.com"] {
+    position: relative;
+}
+
 .author__urls a[href*="scholar.google.com"]::before {
     content: "";
     display: inline-block;
-    width: 1em;
-    height: 1em;
-    margin-right: 0.4em;
-    vertical-align: -0.125em;
-    background-image: url("/assets/icons/Google_Scholar_logo.png");
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
     background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
 }
