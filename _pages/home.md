@@ -41,7 +41,9 @@ arXiv:2602.05529
 - Dynamo theory  
 - Astrophysical fluid dynamics   
 
+<!--
 ## Contact
 
 - Email: rajesh.mondal@iucaa.in  
 - [Google Scholar](https://scholar.google.com/citations?user=yQCyUuwAAAAJ)
+-->
