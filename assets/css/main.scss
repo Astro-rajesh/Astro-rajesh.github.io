@@ -18,9 +18,9 @@
 .author__urls a[href*="scholar.google.com"]::before {
     content: "";
     display: inline-block;
-    width: 16px;
-    height: 16px;
-    margin-right: 6px;
+    width: 17px;
+    height: 17px;
+    margin-right: 3px;
     background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
     background-size: contain;
 }
