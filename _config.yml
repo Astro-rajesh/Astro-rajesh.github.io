@@ -4,9 +4,6 @@ markdown: kramdown
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-head_scripts:
-  - /docs/assets/css/custom.css
-
 plugins:
   - jekyll-include-cache
 
