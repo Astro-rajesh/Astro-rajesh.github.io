@@ -14,6 +14,7 @@
 .author__urls a[href*="scholar.google.com"]::before {
     content: "";
     display: inline-block;
+    position: relative;
     width: 16.15px;
     height: 16.15px;
     margin-right: 0.5px;
@@ -29,10 +30,11 @@
 .author__urls a[href*="orcid.org"]::before {
     content: "";
     display: inline-block;
+    position: relative;
     width: 16px;
     height: 16px;
     margin-right: 0.5px;
-    top: 10.8px;
+    top: 0.5px;
     background: url("/assets/icons/ORCID_iD.svg") no-repeat center center;
     background-size: contain;
 }
