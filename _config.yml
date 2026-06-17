@@ -20,6 +20,8 @@ defaults:
       layout: single
       author_profile: true
 
+favicon: "/docs/assets/sun.png"
+
 author:
   name: "Rajesh Mondal"
   avatar: "/docs/assets/me.jpg"
