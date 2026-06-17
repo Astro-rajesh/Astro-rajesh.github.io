@@ -23,18 +23,18 @@ defaults:
 author:
   name: "Rajesh Mondal"
   avatar: "/docs/assets/me.jpg"
-  bio: "PhD Research Scholar, IUCAA"
+  bio: "Research Scholar, IUCAA"
   location: "Pune, India"
 
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:rajesh.mondal@iucaa.in"
-    
+  
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-id-badge"
       url: "https://orcid.org/0009-0005-7378-8614"
-    
+  
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=yQCyUuwAAAAJ"
