@@ -1,14 +1,3 @@
-# title: Rajesh Mondal
-# #logo: docs/assets/sun.png
-# logo: docs/assets/rotating_Ylm_l12_m6.gif
-# description: Research Scholar, IUCAA
-# #theme: jekyll-theme-minimal
-# # theme: jekyll-theme-cayman
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# plugins:
-#   - jekyll-include-cache
-
 title: Rajesh Mondal
 description: Research Scholar, IUCAA
 markdown: kramdown
@@ -30,3 +19,21 @@ defaults:
     values:
       layout: single
 
+author:
+  name: "Rajesh Mondal"
+  avatar: "/images/profile.jpg"
+  bio: "PhD Research Scholar, IUCAA"
+  location: "Pune, India"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:rajesh.mondal@iucaa.in"
+    
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0005-7378-8614"
+    
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=yQCyUuwAAAAJ"
