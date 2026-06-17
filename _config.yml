@@ -37,6 +37,6 @@ author:
       url: "https://orcid.org/0009-0005-7378-8614"
   
     - label: "Google Scholar"
-      #icon: "fas fa-graduation-cap"
-      icon: "ai ai-google-scholar"
+      icon: "fas fa-graduation-cap"
+      #icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=yQCyUuwAAAAJ"
