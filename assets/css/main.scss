@@ -6,3 +6,20 @@
 .author__avatar img {
     border-radius: 20px !important;
 }
+
+.author__urls .fa-graduation-cap {
+    display: none;
+}
+
+.author__urls a[href*="scholar.google.com"]::before {
+    content: "";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.4em;
+    vertical-align: -0.125em;
+    background-image: url("/assets/icons/google-scholar.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
