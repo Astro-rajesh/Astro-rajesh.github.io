@@ -21,12 +21,20 @@ I work on helioseismology and nonlinear magnetohydrodynamic simulations, focusin
 
 ## Publications
 
+<!--
 **Mondal, R., & Singh, N. K. (2026)**  
 *Effects of Dynamo-Generated Large-Scale Magnetic Fields on the Surface Gravity (f) Mode*  
 arXiv:2602.05529  
-[Abstract](https://arxiv.org/abs/2602.05529) | 
-[PDF](https://arxiv.org/pdf/2602.05529)
+[Abstract](https://iopscience.iop.org/article/10.3847/2041-8213/ae6fbb) | 
+[PDF](https://iopscience.iop.org/article/10.3847/2041-8213/ae6fbb/pdf)
+-->
 
+**Mondal, R., & Singh, N. K. (2026)**  
+*Effects of Dynamo-Generated Large-Scale Magnetic Fields on the Surface Gravity (f) Mode*  
+*The Astrophysical Journal Letters*, **1004**, L38  
+[DOI](https://doi.org/10.3847/2041-8213/ae6fbb) |
+[PDF](https://iopscience.iop.org/article/10.3847/2041-8213/ae6fbb/pdf) |
+[arXiv](https://arxiv.org/abs/2602.05529)
 ## Research Interests
 
 - Helioseismology  
