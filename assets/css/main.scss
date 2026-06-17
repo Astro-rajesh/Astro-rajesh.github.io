@@ -7,6 +7,23 @@
     border-radius: 20px !important;
 }
 
+.author__urls .ai-orcid {
+    display: none;
+}
+
+.author__urls a[href*="orcid.org"]::before {
+    content: "";
+    display: inline-block;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    margin-right: 0.5px;
+    top: 1.5px;
+    background: url("/assets/icons/ORCID_iD.svg") no-repeat center center;
+    background-size: contain;
+}
+
+
 .author__urls .fa-graduation-cap {
     display: none;
 }
@@ -20,21 +37,5 @@
     margin-right: 0.5px;
     top: 0.2px;
     background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
-    background-size: contain;
-}
-
-.author__urls .ai-orcid {
-    display: none;
-}
-
-.author__urls a[href*="orcid.org"]::before {
-    content: "";
-    display: inline-block;
-    position: relative;
-    width: 16px;
-    height: 16px;
-    margin-right: 0.5px;
-    top: 0.5px;
-    background: url("/assets/icons/ORCID_iD.svg") no-repeat center center;
     background-size: contain;
 }
