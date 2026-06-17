@@ -11,16 +11,26 @@
     display: none;
 }
 
-// .author__urls a[href*="scholar.google.com"] {
-//     position: relative;
-// }
-
 .author__urls a[href*="scholar.google.com"]::before {
     content: "";
     display: inline-block;
     width: 16.15px;
     height: 16.15px;
     margin-right: 0.5px;
-    background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
+    background: url("/assets/icons/Google_Scholar_logo.svg") no-repeat center center;
+    background-size: contain;
+}
+
+.author__urls .fa-id-badge {
+    display: none;
+}
+
+.author__urls a[href*="orcid.org"]::before {
+    content: "";
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 4px;
+    background: url("/assets/icons/ORCID_iD.svg") no-repeat center center;
     background-size: contain;
 }
