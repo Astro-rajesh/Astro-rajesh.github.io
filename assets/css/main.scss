@@ -32,11 +32,12 @@
 .author__urls a[href*="scholar.google.com"]::before {
     content: "";
     display: inline-block;
-    position: relative;
+    // position: relative;
     width: 16.15px;
     height: 16.15px;
     margin-right: 0.5px;
-    top: 0.2px;
+    // top: 0.2px;
+    vertical-align: -0.5px;
     background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
     background-size: contain;
 }
