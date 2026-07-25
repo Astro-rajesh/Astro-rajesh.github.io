@@ -18,4 +18,4 @@ A story about how surface gravity waves (the **f-mode**) can be used as probes o
 
 <!-- ![Research preview](/assets/images/research/fmode_preview.jpg) -->
 
-[Read the full story →](/research/forceddynamo_fmode.md/)
+[Read the full story →](/research/forced_dynamo_fmode.md/)
