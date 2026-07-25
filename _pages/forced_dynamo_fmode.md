@@ -5,8 +5,6 @@ permalink: /research/forced-dynamo-fmode/
 author_profile: true
 ---
 
-# Listening to the Hidden Magnetic Fields of the Sun
-
 > *Can we detect magnetic fields beneath the solar surface without seeing them directly?*
 
 ---
