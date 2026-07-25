@@ -53,9 +53,11 @@ Describe
 - Boundary conditions
 
 <figure class="align-center">
-  <img src="/assets/images/research/rho_pre_tem.png" alt="Computational domain">
+  <img src="/assets/images/research/rho_pre_tem.png.png"
+       alt="Computational domain"
+       style="width:70%; max-width:700px;">
   <figcaption>
-    Computational domain.
+    <strong>Figure 1.</strong> Computational domain.
   </figcaption>
 </figure>
 
