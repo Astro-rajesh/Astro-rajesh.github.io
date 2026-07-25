@@ -22,7 +22,7 @@ Can waves reveal what telescopes cannot?
 
 ---
 
-## Why the f-mode?
+## Why the $f$-mode?
 
 The Sun supports many kinds of oscillations, but the $f$-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the f-mode an ideal probe of subsurface magnetic fields.
 
@@ -118,7 +118,11 @@ These effects become stronger as the magnetic field near the surface increases, 
 
 ## Why It Matters
 
-Explain the implications for local helioseismology and probing hidden magnetic fields beneath the solar surface.
+Our simulations show that the signatures of subsurface magnetic fields on the $f$-mode are not an artifact of imposing magnetic fields by hand. They persist even when the magnetic field is generated self-consistently through dynamo action. This strengthens the idea that the $f$-mode can be used as a reliable probe of hidden solar magnetism.
+
+Although our model is highly idealized and is **not** intended to represent the solar dynamo in all its complexity, it captures an essential piece of the physics: the interaction between surface gravity waves and dynamically generated magnetic fields. By isolating this interaction, we can better understand how magnetic fields influence helioseismic observations.
+
+Ultimately, our goal is to move toward more realistic models with convective turbulence and solar-like stratification. If the same signatures persist under those conditions, the $f$-mode could become a valuable diagnostic tool for detecting magnetic fields beneath the solar surface and, potentially, for identifying active regions before they emerge.
 
 ---
 
@@ -138,4 +142,4 @@ The Astrophysical Journal Letters **1004**, L38
 
 ## What's Next?
 
-Briefly describe how this work motivates more realistic simulations with convective dynamos and three-layer solar models.
+**Coming soon:** More realistic solar models, convective dynamos, and the next chapter of this research.
