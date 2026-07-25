@@ -74,14 +74,20 @@ To answer this, we use a helically forced $\alpha^2$ dynamo operating in the low
 
 ## Listening to the Waves
 
-Explain
+Once the magnetic field reaches its saturated state, we begin "listening" to the waves propagating through the simulation. We record the vertical velocity at the surface over time, capturing the oscillations excited by the turbulent motions.
 
-- extracting oscillations
-- Fourier transforms
-- k–ω diagram
-- identifying the f-mode
+To identify the different wave modes, we perform a two-dimensional Fourier transform in space and time. This produces a **k–ω diagram**, where each ridge corresponds to a different type of wave. The surface gravity (*f*) mode appears as a distinct ridge, clearly separated from the acoustic (*p*) modes.
 
-> **Figure:** k–ω diagram.
+By comparing the *f*-mode in the hydrodynamic and dynamo simulations, we can measure how the self-generated magnetic field modifies its properties.
+
+<figure class="align-center">
+  <img src="/assets/images/research/kom.png"
+       alt="k–ω diagram showing the f-mode and p-modes"
+       style="width:80%; max-width:900px;">
+  <figcaption>
+    <strong>Figure 3.</strong> The $k$–$\omega$ diagram obtained from the simulated surface oscillations. The left panel shows the power spectrum in the hydrodynamic case, while the right panels compare the mode profiles before and after the magnetic field reaches its saturated state. The shift of the <em>f</em>-mode ridge provides a direct measure of the influence of the dynamo-generated magnetic field.
+  </figcaption>
+</figure>
 
 ---
 
