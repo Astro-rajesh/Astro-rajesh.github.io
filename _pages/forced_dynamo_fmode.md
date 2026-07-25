@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## 🌞 The Mystery
+## The Mystery
 
 The Sun constantly oscillates. These oscillations carry information about the solar interior, allowing us to probe regions that cannot be observed directly. Much like seismic waves reveal Earth's interior, solar oscillations provide a window into the hidden layers beneath the photosphere.
 
@@ -21,7 +21,7 @@ Can waves reveal what telescopes cannot?
 
 ---
 
-## 🌊 Why the f-mode?
+## Why the f-mode?
 
 Explain what the surface gravity (f) mode is.
 
@@ -33,7 +33,7 @@ Why is it an ideal probe of near-surface magnetic fields?
 
 ---
 
-## ❓ The Scientific Question
+## The Scientific Question
 
 > **Can magnetic fields beneath the solar surface leave measurable signatures on the f-mode?**
 
@@ -41,7 +41,7 @@ This question motivated the project.
 
 ---
 
-## 🛠 Building the Numerical Experiment
+## Building the Numerical Experiment
 
 Instead of simulating the entire Sun, we build an idealized numerical model that captures the physics most relevant to surface gravity waves. As shown in Figure 1, the computational domain consists of two isothermal layers separated by an interface at z=0, representing the solar surface. The f-mode is confined to this interface, where its amplitude is largest and decreases exponentially away from it. This makes the wave an excellent probe of magnetic fields located just beneath the surface.
 
@@ -56,7 +56,7 @@ Instead of simulating the entire Sun, we build an idealized numerical model that
 
 ---
 
-## ⚡ Generating the Magnetic Field
+## Generating the Magnetic Field
 
 Explain
 
@@ -69,7 +69,7 @@ Explain
 
 ---
 
-## 🎵 Listening to the Waves
+## Listening to the Waves
 
 Explain
 
@@ -82,7 +82,7 @@ Explain
 
 ---
 
-## 📈 What We Found
+## What We Found
 
 Introduce the key results.
 
@@ -94,13 +94,13 @@ Discuss dependence on magnetic field strength.
 
 ---
 
-## 🌍 Why It Matters
+## Why It Matters
 
 Explain the implications for local helioseismology and probing hidden magnetic fields beneath the solar surface.
 
 ---
 
-## 📄 Publication
+## Publication
 
 **Rajesh Mondal & N. K. Singh (2026)**
 
@@ -112,6 +112,6 @@ DOI • PDF • arXiv
 
 ---
 
-## 🚀 What's Next?
+## What's Next?
 
 Briefly describe how this work motivates more realistic simulations with convective dynamos and three-layer solar models.
