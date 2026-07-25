@@ -83,7 +83,7 @@ By comparing the *f*-mode in the hydrodynamic and dynamo simulations, we can mea
 <figure class="align-center">
   <img src="/assets/images/research/kom.png"
        alt="k–ω diagram showing the f-mode and p-modes"
-       style="width:80%; max-width:900px;">
+       style="width:90%; max-width:900px;">
   <figcaption>
     <strong>Figure 3.</strong> The $k$–$\omega$ diagram obtained from the simulated surface oscillations. The left panel shows the power spectrum in the hydrodynamic case, while the right panels compare the mode profiles before and after the magnetic field reaches its saturated state. The shift of the <em>f</em>-mode ridge provides a direct measure of the influence of the dynamo-generated magnetic field.
   </figcaption>
@@ -93,13 +93,26 @@ By comparing the *f*-mode in the hydrodynamic and dynamo simulations, we can mea
 
 ## What We Found
 
-Introduce the key results.
+The answer is **yes**.
 
-Explain the frequency shift.
+During the early (**kinematic**) phase of the dynamo, the magnetic field is too weak to influence the flow. As a result, the *f*-mode is almost indistinguishable from that of a nonmagnetic simulation. In other words, the presence of a weak, growing magnetic field alone does not affect the surface waves.
 
-Discuss dependence on magnetic field strength.
+The picture changes once the dynamo reaches its **saturated** state. The self-generated large-scale magnetic field begins to interact with the flow, leaving clear signatures on the *f*-mode. We find that the magnetic field:
 
-> **Figure:** Main figure from the paper.
+- **increases the frequency** of the *f*-mode,
+- **strengthens** the mode, making it more prominent in the power spectrum, and
+- **broadens** the mode, producing the characteristic fanning-out seen in the *k*–*ω* diagram.
+
+These effects become stronger as the magnetic field near the surface increases, suggesting that the *f*-mode carries valuable information about subsurface magnetism.
+
+<figure class="align-center">
+  <img src="/assets/images/research/b_rms-t.png"
+       alt="Computational domain"
+       style="width:70%; max-width:700px;">
+  <figcaption>
+    <strong>Figure 1.</strong> Comparison of the *f*-mode in the kinematic and saturated phases, highlighting the frequency shift and enhanced mode strength.
+  </figcaption>
+</figure>
 
 ---
 
