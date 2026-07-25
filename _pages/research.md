@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-# Research
+<-- # Research -->
 
 My research focuses on helioseismology, solar magnetohydrodynamics, turbulent convection, and numerical simulations of astrophysical plasmas.
 
