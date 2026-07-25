@@ -26,8 +26,9 @@ Can waves reveal what telescopes cannot?
 The Sun supports many kinds of oscillations, but the f-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the f-mode an ideal probe of subsurface magnetic fields.
 
 > **Figure:** Illustration comparing p-modes and the f-mode.
-
+> 
 If you're not familiar with surface gravity waves, this short introduction from the University of Waterloo provides a good starting point: [Surface Gravity Waves](https://uwaterloo.ca/applied-mathematics/current-undergraduates/continuum-and-fluid-mechanics-students/amath-463/surface-gravity-waves)
+
 ---
 
 ## The Scientific Question
