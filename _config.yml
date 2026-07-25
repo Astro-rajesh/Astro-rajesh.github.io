@@ -9,16 +9,16 @@ plugins:
 
 include:
   - _pages
-  - _research
+  - _stories
 
 collections:
   pages:
     output: true
     permalink: /:path/
 
-  research:
+  stories:
     output: true
-    permalink: /research/:name/
+    permalink: /stories/:name/
 
 defaults:
   - scope:
@@ -27,14 +27,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
   - scope:
       path: "_stories"
       type: stories
     values:
       layout: single
       author_profile: true
-
+      
 author:
   name: "Rajesh Mondal"
   avatar: "/docs/assets/me.jpg"
