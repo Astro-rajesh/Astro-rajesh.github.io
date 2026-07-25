@@ -106,7 +106,7 @@ The picture changes once the dynamo reaches its **saturated** state. The self-ge
 These effects become stronger as the magnetic field near the surface increases, suggesting that the *f*-mode carries valuable information about subsurface magnetism.
 
 <figure class="align-center">
-  <img src="/assets/images/research/b_rms-t.png"
+  <img src="/assets/images/research/modes_char_com.png"
        alt="Computational domain"
        style="width:70%; max-width:700px;">
   <figcaption>
