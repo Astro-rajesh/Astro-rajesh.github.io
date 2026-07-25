@@ -1,7 +1,7 @@
-
 ---
-title: "Listening to the Hidden Magnetic Fields of the Sun"
 layout: single
+title: "Listening to the Hidden Magnetic Fields of the Sun"
+permalink: /research/forced-dynamo-fmode/
 author_profile: true
 ---
 
