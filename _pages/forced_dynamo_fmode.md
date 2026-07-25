@@ -52,7 +52,12 @@ Describe
 - Domain size
 - Boundary conditions
 
-> **Figure:** Computational domain.
+<figure class="align-center">
+  <img src="/assets/images/research/rho_pre_tem.png" alt="Surface wave interacting with magnetic field">
+  <figcaption>
+    Computational domain.
+  </figcaption>
+</figure>
 
 ---
 
