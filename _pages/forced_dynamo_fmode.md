@@ -42,7 +42,7 @@ This question motivated the project.
 
 ## Building the Numerical Experiment
 
-Instead of simulating the entire Sun, we build an idealized numerical model that captures the physics most relevant to surface gravity waves. As shown in Figure 1, the computational domain consists of two isothermal layers separated by an interface at z=0, representing the solar surface. The f-mode is confined to this interface, where its amplitude is largest and decreases exponentially away from it. This makes the wave an excellent probe of magnetic fields located just beneath the surface.
+Instead of simulating the entire Sun, we build an idealized numerical model that captures the physics most relevant to surface gravity waves. As shown in Figure 1, the computational domain consists of two isothermal layers separated by an interface at $z=0$, representing the solar surface. The $f$-mode is confined to this interface, where its amplitude is largest and decreases exponentially away from it. This makes the wave an excellent probe of magnetic fields located just beneath the surface.
 
 <figure class="align-center">
   <img src="/assets/images/research/rho_pre_tem.png"
@@ -97,7 +97,7 @@ The answer is **yes**.
 
 During the early (**kinematic**) phase of the dynamo, the magnetic field is too weak to influence the flow. As a result, the *f*-mode is almost indistinguishable from that of a nonmagnetic simulation. In other words, the presence of a weak, growing magnetic field alone does not affect the surface waves.
 
-The picture changes once the dynamo reaches its **saturated** state. The self-generated large-scale magnetic field begins to interact with the flow, leaving clear signatures on the *f*-mode. We find that the magnetic field:
+The picture changes once the dynamo reaches its **saturated** state. The self-generated large-scale magnetic field begins to interact with the flow, leaving clear signatures on the $f$-mode. We find that the magnetic field:
 
 - **increases the frequency** of the $f$-mode,
 - **strengthens** the mode, making it more prominent in the power spectrum, and
