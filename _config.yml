@@ -7,10 +7,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
 
-include:
-  - _pages
-  - _stories
-
 collections:
   pages:
     output: true
