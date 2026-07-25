@@ -66,7 +66,7 @@ To answer this, we use a helically forced $\alpha^2$ dynamo operating in the low
        alt="Computational domain"
        style="width:70%; max-width:700px;">
   <figcaption>
-    <strong>Figure 1.</strong> Time evolution of the kinetic and magnetic energies.
+    <strong>Figure 2.</strong> Time evolution of the kinetic and magnetic energies.
   </figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ These effects become stronger as the magnetic field near the surface increases, 
        alt="Computational domain"
        style="width:70%; max-width:700px;">
   <figcaption>
-    <strong>Figure 1.</strong> Comparison of the *f*-mode in the kinematic and saturated phases, highlighting the frequency shift and enhanced mode strength.
+    <strong>Figure 4.</strong> Comparison of the *f*-mode in the kinematic and saturated phases, highlighting the frequency shift and enhanced mode strength.
   </figcaption>
 </figure>
 
