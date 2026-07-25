@@ -1,6 +1,7 @@
 
 ---
 title: "Listening to the Hidden Magnetic Fields of the Sun"
+layout: single
 author_profile: true
 ---
 
