@@ -24,7 +24,7 @@ Can waves reveal what telescopes cannot?
 
 ## Why the $f$-mode?
 
-The Sun supports many kinds of oscillations, but the $f$-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the f-mode an ideal probe of subsurface magnetic fields.
+The Sun supports many kinds of oscillations, but the $f$-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the $f$-mode an ideal probe of subsurface magnetic fields.
 
 > **Figure:** Illustration comparing $p$-modes and the $f$-mode.
 > 
@@ -85,7 +85,7 @@ By comparing the $f$-mode in the hydrodynamic and dynamo simulations, we can mea
        alt="k–ω diagram showing the f-mode and p-modes"
        style="width:100%; max-width:900px;">
   <figcaption>
-    <strong>Figure 3.</strong> The $k$–$\omega$ diagram obtained from the simulated surface oscillations. The left panel shows the power spectrum in the hydrodynamic case, while the right panels compare the mode profiles before and after the magnetic field reaches its saturated state. The shift of the <em>f</em>-mode ridge provides a direct measure of the influence of the dynamo-generated magnetic field.
+    <strong>Figure 3.</strong> The $k$–$\omega$ diagram obtained from the simulated surface oscillations. The left panel shows the power spectrum in the hydrodynamic case, while the right panels compare the mode profiles before and after the magnetic field reaches its saturated state. The shift of the $f$-mode ridge provides a direct measure of the influence of the dynamo-generated magnetic field.
   </figcaption>
 </figure>
 
