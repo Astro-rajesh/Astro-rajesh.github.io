@@ -34,7 +34,7 @@ If you're not familiar with surface gravity waves, this short introduction from 
 
 ## The Scientific Question
 
-> **Can magnetic fields beneath the solar surface leave measurable signatures on the f-mode?**
+> **Can magnetic fields beneath the solar surface leave measurable signatures on the $f$-mode?**
 
 This question motivated the project.
 
