@@ -1,6 +1,9 @@
 title: Rajesh Mondal
 description: Research Scholar, IUCAA
 markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
