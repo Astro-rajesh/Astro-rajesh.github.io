@@ -24,9 +24,9 @@ Can waves reveal what telescopes cannot?
 
 ## Why the f-mode?
 
-The Sun supports many kinds of oscillations, but the f-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the f-mode an ideal probe of subsurface magnetic fields.
+The Sun supports many kinds of oscillations, but the $f$-mode is special because it is confined to the solar surface. Its amplitude is largest at the photosphere and decays exponentially away from it, making it highly sensitive to conditions just beneath the surface. This makes the f-mode an ideal probe of subsurface magnetic fields.
 
-> **Figure:** Illustration comparing p-modes and the f-mode.
+> **Figure:** Illustration comparing $p$-modes and the $f$-mode.
 > 
 If you're not familiar with surface gravity waves, this short introduction from the University of Waterloo provides a good starting point: [Surface Gravity Waves](https://uwaterloo.ca/applied-mathematics/current-undergraduates/continuum-and-fluid-mechanics-students/amath-463/surface-gravity-waves)
 
@@ -76,9 +76,9 @@ To answer this, we use a helically forced $\alpha^2$ dynamo operating in the low
 
 Once the magnetic field reaches its saturated state, we begin "listening" to the waves propagating through the simulation. We record the vertical velocity at the surface over time, capturing the oscillations excited by the turbulent motions.
 
-To identify the different wave modes, we perform a two-dimensional Fourier transform in space and time. This produces a **k–ω diagram**, where each ridge corresponds to a different type of wave. The surface gravity (*f*) mode appears as a distinct ridge, clearly separated from the acoustic (*p*) modes.
+To identify the different wave modes, we perform a two-dimensional Fourier transform in space and time. This produces a **k–ω diagram**, where each ridge corresponds to a different type of wave. The surface gravity ($f$) mode appears as a distinct ridge, clearly separated from the acoustic ($p$) modes.
 
-By comparing the *f*-mode in the hydrodynamic and dynamo simulations, we can measure how the self-generated magnetic field modifies its properties.
+By comparing the $f$-mode in the hydrodynamic and dynamo simulations, we can measure how the self-generated magnetic field modifies its properties.
 
 <figure class="align-center">
   <img src="/assets/images/research/kom.png"
@@ -99,9 +99,9 @@ During the early (**kinematic**) phase of the dynamo, the magnetic field is too 
 
 The picture changes once the dynamo reaches its **saturated** state. The self-generated large-scale magnetic field begins to interact with the flow, leaving clear signatures on the *f*-mode. We find that the magnetic field:
 
-- **increases the frequency** of the *f*-mode,
+- **increases the frequency** of the $f$-mode,
 - **strengthens** the mode, making it more prominent in the power spectrum, and
-- **broadens** the mode, producing the characteristic fanning-out seen in the *k*–*ω* diagram.
+- **broadens** the mode, producing the characteristic fanning-out seen in the $k$–$\omega$ diagram.
 
 These effects become stronger as the magnetic field near the surface increases, suggesting that the *f*-mode carries valuable information about subsurface magnetism.
 
@@ -110,7 +110,7 @@ These effects become stronger as the magnetic field near the surface increases, 
        alt="Computational domain"
        style="width:70%; max-width:700px;">
   <figcaption>
-    <strong>Figure 4.</strong> Comparison of the *f*-mode in the kinematic and saturated phases, highlighting the frequency shift and enhanced mode strength.
+    <strong>Figure 4.</strong> Comparison of the $f$-mode in the kinematic and saturated phases, highlighting the frequency shift and enhanced mode strength.
   </figcaption>
 </figure>
 
