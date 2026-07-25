@@ -12,6 +12,10 @@ collections:
     output: true
     permalink: /:path/
 
+  research:
+    output: true
+    permalink: /research/:name/
+
 defaults:
   - scope:
       path: "_pages"
