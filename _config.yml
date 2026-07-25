@@ -29,8 +29,8 @@ defaults:
       author_profile: true
       
   - scope:
-      path: "_research"
-      type: research
+      path: "_stories"
+      type: stories
     values:
       layout: single
       author_profile: true
