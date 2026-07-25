@@ -53,7 +53,7 @@ Describe
 - Boundary conditions
 
 <figure class="align-center">
-  <img src="/assets/images/research/rho_pre_tem.png" alt="Surface wave interacting with magnetic field">
+  <img src="/assets/images/research/rho_pre_tem.png" alt="Computational domain">
   <figcaption>
     Computational domain.
   </figcaption>
