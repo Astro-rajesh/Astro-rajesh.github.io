@@ -29,7 +29,7 @@ defaults:
       author_profile: true
 
   - scope:
-      path: "_stories"
+      path: ""
       type: stories
     values:
       layout: single
