@@ -55,14 +55,18 @@ Instead of simulating the entire Sun, we build an idealized numerical model that
 
 ## Generating the Magnetic Field
 
-Explain
+Previous studies have shown that subsurface magnetic fields can leave clear signatures on the f-mode. However, these studies typically considered either idealized analytical magnetic structures or magnetic fields imposed by hand in numerical simulations. An important open question is whether these signatures survive when the magnetic field is generated self-consistently by a turbulent dynamo.
 
-- forced turbulence
-- dynamo
-- magnetic field growth
-- saturated state
+To answer this, we use a helically forced $\alpha^2$ dynamo operating in the lower layer of our computational domain. Turbulence is continuously driven by a helical forcing function, which amplifies a weak seed magnetic field through dynamo action. As the magnetic energy grows, it eventually reaches a statistically steady (**saturated**) state, where the magnetic field is maintained by the ongoing turbulent motions. It is this self-generated magnetic field that interacts with the surface gravity waves in our simulations.
 
-> **Figure:** Magnetic field snapshot or magnetic energy evolution.
+<figure class="align-center">
+  <img src="/assets/images/research/b_rms-t.png"
+       alt="Computational domain"
+       style="width:70%; max-width:700px;">
+  <figcaption>
+    <strong>Figure 1.</strong> Time evolution of the kinetic and magnetic energies.
+  </figcaption>
+</figure>
 
 ---
 
