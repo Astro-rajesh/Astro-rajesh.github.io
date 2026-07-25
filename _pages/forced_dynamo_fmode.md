@@ -83,7 +83,7 @@ By comparing the *f*-mode in the hydrodynamic and dynamo simulations, we can mea
 <figure class="align-center">
   <img src="/assets/images/research/kom.png"
        alt="k–ω diagram showing the f-mode and p-modes"
-       style="width:90%; max-width:900px;">
+       style="width:100%; max-width:900px;">
   <figcaption>
     <strong>Figure 3.</strong> The $k$–$\omega$ diagram obtained from the simulated surface oscillations. The left panel shows the power spectrum in the hydrodynamic case, while the right panels compare the mode profiles before and after the magnetic field reaches its saturated state. The shift of the <em>f</em>-mode ridge provides a direct measure of the influence of the dynamo-generated magnetic field.
   </figcaption>
