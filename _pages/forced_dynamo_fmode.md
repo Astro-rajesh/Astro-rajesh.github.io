@@ -110,7 +110,9 @@ Explain the implications for local helioseismology and probing hidden magnetic f
 
 The Astrophysical Journal Letters **1004**, L38
 
-DOI • PDF • arXiv
+[DOI](https://doi.org/10.3847/2041-8213/ae6fbb) |
+[PDF](https://iopscience.iop.org/article/10.3847/2041-8213/ae6fbb/pdf) |
+[arXiv](https://arxiv.org/abs/2602.05529)
 
 ---
 
