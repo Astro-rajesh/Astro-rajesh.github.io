@@ -41,3 +41,11 @@
     background: url("/assets/icons/Google_Scholar_logo.png") no-repeat center center;
     background-size: contain;
 }
+
+
+.page__content figure figcaption {
+    font-size: 1.1em;      /* Increase from the default */
+    line-height: 1.5;
+    color: #444;
+    margin-top: 0.7em;
+}
