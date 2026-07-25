@@ -23,6 +23,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: single
+      author_profile: true
 
 author:
   name: "Rajesh Mondal"
