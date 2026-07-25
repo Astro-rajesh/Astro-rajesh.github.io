@@ -34,9 +34,9 @@ If you're not familiar with surface gravity waves, this short introduction from 
 
 ## The Scientific Question
 
-> **Can magnetic fields beneath the solar surface leave measurable signatures on the $f$-mode?**
+> **Does a dynamo-generated large-scale magnetic field affect the *f*-mode?**
 
-This question motivated the project.
+This is the central question addressed in this work.
 
 ---
 
