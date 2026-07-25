@@ -57,7 +57,7 @@ Instead of simulating the entire Sun, we build an idealized numerical model that
 
 ## Generating the Magnetic Field
 
-Previous studies have shown that subsurface magnetic fields can leave clear signatures on the f-mode. However, these studies typically considered either idealized analytical magnetic structures or magnetic fields imposed by hand in numerical simulations. An important open question is whether these signatures survive when the magnetic field is generated self-consistently by a turbulent dynamo.
+Previous studies have shown that subsurface magnetic fields can leave clear signatures on the $f$-mode. However, these studies typically considered either idealized analytical magnetic structures or magnetic fields imposed by hand in numerical simulations. An important open question is whether these signatures survive when the magnetic field is generated self-consistently by a turbulent dynamo.
 
 To answer this, we use a helically forced $\alpha^2$ dynamo operating in the lower layer of our computational domain. Turbulence is continuously driven by a helical forcing function, which amplifies a weak seed magnetic field through dynamo action. As the magnetic energy grows, it eventually reaches a statistically steady (**saturated**) state, where the magnetic field is maintained by the ongoing turbulent motions. It is this self-generated magnetic field that interacts with the surface gravity waves in our simulations.
 
@@ -76,7 +76,7 @@ To answer this, we use a helically forced $\alpha^2$ dynamo operating in the low
 
 Once the magnetic field reaches its saturated state, we begin "listening" to the waves propagating through the simulation. We record the vertical velocity at the surface over time, capturing the oscillations excited by the turbulent motions.
 
-To identify the different wave modes, we perform a two-dimensional Fourier transform in space and time. This produces a **k–ω diagram**, where each ridge corresponds to a different type of wave. The surface gravity ($f$) mode appears as a distinct ridge, clearly separated from the acoustic ($p$) modes.
+To identify the different wave modes, we perform a two-dimensional Fourier transform in space and time. This produces a **$k$–$\omega$ diagram**, where each ridge corresponds to a different type of wave. The surface gravity ($f$) mode appears as a distinct ridge, clearly separated from the acoustic ($p$) modes.
 
 By comparing the $f$-mode in the hydrodynamic and dynamo simulations, we can measure how the self-generated magnetic field modifies its properties.
 
