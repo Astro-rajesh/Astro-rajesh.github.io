@@ -18,6 +18,10 @@ collections:
   stories:
     output: true
     permalink: /stories/:name/
+    
+  notes:
+    output: true
+    permalink: /notes/:path/
 
 defaults:
   - scope:
