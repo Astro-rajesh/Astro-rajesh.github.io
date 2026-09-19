@@ -8,3 +8,12 @@ Time-distance helioseismology is a technique used to study the propagation of wa
 
 ## The basic idea
 Will be added soon.
+
+## Visualization
+
+The following animation illustrates the propagation of the wave packet:
+
+<video controls autoplay loop muted playsinline width="100%">
+  <source src="/assets/videos/time-distance/ray_paths_bounce_scatter.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
