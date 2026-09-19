@@ -33,6 +33,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
       
 author:
   name: "Rajesh Mondal"
