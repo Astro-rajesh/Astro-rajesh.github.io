@@ -4,8 +4,6 @@ title: "Notes"
 author_profile: true
 ---
 
-# Notes
-
 These notes cover topics in helioseismology, magnetohydrodynamics, fluid dynamics, and numerical methods.
 
 ## Helioseismology
